@@ -117,19 +117,22 @@ Privacidad y Seguridad de Datos:
 Garantiza la privacidad y seguridad de los datos de los usuarios, especialmente si estás recopilando información sensible como el estado de ánimo y las preferencias personales.
 </p>
 
+
 ###### Listado de los features que debe tener el MVP
-- Mónica Ricón : 
-app.jsx
-Login
+<ul>
+ - Mónica Ricón : 
+    app.jsx
+    Login
 - Kelly Saldaña: 
-Home
-Search
+   Home
+   Search
 - Manuela Moreno:
-nowplaying
-Profile
+   nowplaying
+   Profile
 - Cristian Loiza:
-settings
-SingUp
+   settings
+   SingUp
+</ul>
 
 ######  Prototipo de alta fidelidad.
 [Prototipo](https://www.figma.com/file/FvM2p98YDkRDEYf1ibAxXa/MelodiaMood?type=design&node-id=0-1&mode=design&t=bXkOWL746ssAvGUk-0 "Prototipo")
