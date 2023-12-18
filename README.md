@@ -119,22 +119,19 @@ Garantiza la privacidad y seguridad de los datos de los usuarios, especialmente 
 
 
 ###### Listado de los features que debe tener el MVP
-<ul>
- <li>
   - Mónica Ricón : 
-    app.jsx
+    app.jsx,
     Login
 - Kelly Saldaña: 
-   Home
+   Home,
    Search
 - Manuela Moreno:
-   nowplaying
+   nowplaying,
    Profile
 - Cristian Loiza:
-   settings
+   settings,
    SingUp
- </li>
-</ul>
+
 
 ######  Prototipo de alta fidelidad.
 [Prototipo](https://www.figma.com/file/FvM2p98YDkRDEYf1ibAxXa/MelodiaMood?type=design&node-id=0-1&mode=design&t=bXkOWL746ssAvGUk-0 "Prototipo")
