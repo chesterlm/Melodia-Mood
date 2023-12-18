@@ -120,7 +120,8 @@ Garantiza la privacidad y seguridad de los datos de los usuarios, especialmente 
 
 ###### Listado de los features que debe tener el MVP
 <ul>
- - Mónica Ricón : 
+ <li>
+  - Mónica Ricón : 
     app.jsx
     Login
 - Kelly Saldaña: 
@@ -132,6 +133,7 @@ Garantiza la privacidad y seguridad de los datos de los usuarios, especialmente 
 - Cristian Loiza:
    settings
    SingUp
+ </li>
 </ul>
 
 ######  Prototipo de alta fidelidad.
