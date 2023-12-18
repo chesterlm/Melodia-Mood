@@ -118,7 +118,7 @@ Garantiza la privacidad y seguridad de los datos de los usuarios, especialmente 
 </p>
 
 
-###### Listado de los features que debe tener el MVP
+###### LISTADO DE LOS FEATURES QUE DEBE TENER EL MVP
   - Mónica Ricón : 
     app.jsx,
     Login
@@ -133,5 +133,5 @@ Garantiza la privacidad y seguridad de los datos de los usuarios, especialmente 
    SingUp
 
 
-######  Prototipo de alta fidelidad.
+######  PROTOTIPO DE ALTA FIDELIDAD.
 [Prototipo](https://www.figma.com/file/FvM2p98YDkRDEYf1ibAxXa/MelodiaMood?type=design&node-id=0-1&mode=design&t=bXkOWL746ssAvGUk-0 "Prototipo")
