@@ -57,7 +57,7 @@ Personas que se informan sobre nuevas aplicaciones a través de redes sociales, 
 
 ###### IDENTIFICACIÓN DEL PRODUCT MARKET FIT.
 <p>
-podcats de saluda mental, yana: tu acompañanate emocional, linea amiga saludable.
+Realizacion de entrevistas para analizar el producto.
 </p>
 
 
