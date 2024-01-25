@@ -1,7 +1,6 @@
 # CAUSA RAÍZ DEL PROBLEMAS Y NECESIDADES IDENTIFICADAS.
 la creación de un aplicativo de música que trabaja la parte emocional.
 
-
 ###### LOS 5 PORQUES:
 <p>
 ¿Por qué queremos crear un aplicativo de música que trabaje la parte emocional?
